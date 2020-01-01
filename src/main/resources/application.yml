@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: tt
+    url: jdbc:mysql://192.168.0.120/we7?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    password: Qq56445218
+    driver-class-name: com.mysql.cj.jdbc.Driver
